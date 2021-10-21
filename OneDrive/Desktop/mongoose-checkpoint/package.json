@@ -1,0 +1,25 @@
+{
+  "name": "mongoose-checkpoint",
+  "version": "1.0.0",
+  "description": "mern stack backend part",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "keywords": [
+    "node",
+    "mongodb",
+    "mongoose",
+    "express"
+  ],
+  "author": "bechir",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.10"
+  },
+  "devDependencies": {
+    "dotenv": "^10.0.0"
+  }
+}
